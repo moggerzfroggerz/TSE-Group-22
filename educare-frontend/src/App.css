@@ -1,0 +1,143 @@
+/*logo*/ 
+.brand-logo-container {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.medical-logo {
+  width: 80px;
+  height: 80px;
+  background-color: #3b82f6; 
+  border-radius: 22px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 0 10px 20px rgba(59, 130, 246, 0.3);
+  margin-bottom: 15px;
+}
+
+/* The Plus/Cross Shape */
+.medical-cross {
+  position: relative;
+  width: 35px;
+  height: 35px;
+}
+
+.medical-cross::before,
+.medical-cross::after {
+  content: "";
+  position: absolute;
+  background-color: white;
+  border-radius: 4px;
+}
+
+/* Horizontal bar */
+.medical-cross::before {
+  width: 100%;
+  height: 10px;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+/* Vertical bar */
+.medical-cross::after {
+  width: 10px;
+  height: 100%;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+/* Mini version for sidebar */
+.medical-logo.mini {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  margin-bottom: 0;
+  margin-right: 12px;
+}
+
+.medical-cross.mini {
+  width: 14px;
+  height: 14px;
+}
+
+.medical-cross.mini::before { height: 4px; }
+.medical-cross.mini::after { width: 4px; }
+
+/* --- LOGIN PAGE STYLES --- */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f8fafc;
+}
+
+.login-card {
+  background: white;
+  padding: 50px 40px;
+  border-radius: 28px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 100%;
+  max-width: 420px;
+}
+
+.brand-logo-container h1 {
+  font-size: 1.8rem;
+  color: #1e293b;
+  margin: 0;
+  font-weight: 800;
+}
+
+.brand-logo-container p {
+  color: #64748b;
+  font-size: 0.95rem;
+  margin-top: 4px;
+}
+
+
+.guest-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.btn-guest {
+  padding: 16px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.btn-guest.doctor { background: #1e293b; color: white; }
+.btn-guest.patient { background: #3b82f6; color: white; }
+.btn-guest:hover { transform: translateY(-2px); filter: brightness(1.1); }
+
+.doctor-theme {
+  display: flex;
+  background: #0f172a;
+  color: #f8fafc;
+  min-height: 100vh;
+}
+
+.doctor-theme .sidebar {
+  width: 260px;
+  background: #1e293b;
+  padding: 30px 20px;
+  border-right: 1px solid rgba(255,255,255,0.05);
+}
+
+.patient-theme {
+  background: #f8fafc;
+  color: #1e293b;
+  min-height: 100vh;
+  padding: 40px;
+}
