@@ -1,0 +1,142 @@
+[
+  {
+    "document_id": 0,
+    "chunk_id": 0,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_anxiety.txt",
+    "text": "Anxiety is a feeling of worry, fear, or nervousness that can become difficult to control. It may cause physical symptoms such as a fast heartbeat, sweating, shaking, stomach discomfort, poor sleep, or shortness of breath. Some anxiety is normal, but persistent anxiety can affect daily life. Support may include talking therapies, breathing techniques, lifestyle changes, and medication in some cases. People should seek help if anxiety becomes overwhelming or affects work, study, relationships, or safety."
+  },
+  {
+    "document_id": 1,
+    "chunk_id": 1,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_asthma.txt",
+    "text": "Asthma is a long-term condition that affects the airways in the lungs. It can make breathing harder and may cause coughing, wheezing, chest tightness, or shortness of breath. Symptoms can become worse at night, during exercise, or after triggers such as dust, smoke, pollen, pets, or cold air. Treatment usually includes inhalers. A reliever inhaler helps during symptoms, while a preventer inhaler reduces inflammation over time. People with asthma should follow their asthma action plan and seek urgent help if breathing becomes very difficult."
+  },
+  {
+    "document_id": 2,
+    "chunk_id": 2,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_covid.txt",
+    "text": "COVID-19 is an illness caused by a coronavirus. Symptoms can include a high temperature, cough, sore throat, tiredness, headache, loss of taste or smell, and breathing difficulty. Some people have mild symptoms, while others may become seriously unwell. Rest, fluids, and symptom relief can help mild cases. People at higher risk may need medical advice sooner. Good hygiene, vaccination, and staying away from others when unwell can reduce the spread of infection."
+  },
+  {
+    "document_id": 3,
+    "chunk_id": 3,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_depression.txt",
+    "text": "Depression is a mental health condition that can affect mood, energy, sleep, appetite, concentration, and motivation. It is more than feeling sad for a short time and can make everyday tasks difficult. Symptoms may include low mood, loss of interest, tiredness, guilt, poor sleep, or changes in appetite. Support may include talking therapy, lifestyle changes, medication, and help from family or professionals. Anyone feeling unsafe or having thoughts of self-harm should seek urgent support."
+  },
+  {
+    "document_id": 4,
+    "chunk_id": 4,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_diabetes.txt",
+    "text": "Diabetes is a condition where the level of sugar in the blood becomes too high. This can happen because the body does not produce enough insulin or because insulin does not work properly. Symptoms may include feeling very thirsty, passing urine more often, tiredness, weight changes, and blurred vision. Diabetes can be managed with healthy eating, regular activity, blood sugar checks, and medication if needed. If it is not managed well, it can lead to problems with the heart, kidneys, eyes, or nerves."
+  },
+  {
+    "document_id": 5,
+    "chunk_id": 5,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_flu.txt",
+    "text": "Flu is a viral infection that can make people feel suddenly unwell. Symptoms often include a high temperature, body aches, tiredness, headache, sore throat, cough, and chills. Most people recover at home with rest, fluids, and simple pain relief. Flu can be more serious for older adults, pregnant people, young children, and people with long-term conditions. A flu vaccine can reduce the risk of serious illness. Medical advice should be sought if symptoms become severe or breathing becomes difficult."
+  },
+  {
+    "document_id": 6,
+    "chunk_id": 6,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_heart_disease.txt",
+    "text": "Heart disease refers to conditions that affect the heart and blood vessels. It can include narrowed arteries, chest pain, heart attacks, or heart failure. Risk factors include smoking, high blood pressure, high cholesterol, diabetes, unhealthy diet, lack of exercise, and family history. Symptoms may include chest pain, breathlessness, tiredness, or swelling in the legs. Lifestyle changes and medication can reduce risks. Sudden chest pain or severe breathlessness should be treated as urgent."
+  },
+  {
+    "document_id": 7,
+    "chunk_id": 7,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_hypertension.txt",
+    "text": "High blood pressure, also called hypertension, means the force of blood against the artery walls is consistently too high. Many people do not notice symptoms, so it is often found during routine checks. If untreated, it can increase the risk of heart disease, stroke, kidney problems, and other serious conditions. Management may include reducing salt intake, eating a balanced diet, exercising regularly, limiting alcohol, stopping smoking, and taking prescribed medication. Regular blood pressure checks are important."
+  },
+  {
+    "document_id": 8,
+    "chunk_id": 8,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_migraine.txt",
+    "text": "Migraine is a type of headache that can cause severe throbbing pain, often on one side of the head. It may come with nausea, vomiting, sensitivity to light, or sensitivity to sound. Some people also experience warning signs called aura, such as flashing lights or visual changes. Migraine triggers can include stress, poor sleep, certain foods, dehydration, or hormonal changes. Treatment may include pain relief, anti-sickness medicine, avoiding triggers, and preventive medication if attacks are frequent."
+  },
+  {
+    "document_id": 9,
+    "chunk_id": 9,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_obesity.txt",
+    "text": "Obesity means having excess body fat that may affect health. It can increase the risk of type 2 diabetes, high blood pressure, heart disease, joint pain, sleep apnoea, and some cancers. Causes can include diet, activity levels, genetics, medication, mental health, and environment. Management usually involves gradual lifestyle changes such as healthier eating, regular physical activity, sleep improvement, and professional support. The aim is not only weight loss but also better overall health and reduced risk."
+  },
+  {
+    "document_id": 10,
+    "chunk_id": 10,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_anxiety.txt",
+    "text": "Anxiety disorders involve excessive fear, worry, or avoidance causing functional impairment. Presentations include generalised anxiety disorder, panic disorder, phobias, social anxiety, and anxiety related to trauma or medical conditions. Symptoms may include autonomic arousal, tachycardia, sweating, tremor, gastrointestinal disturbance, insomnia, and cognitive rumination. Assessment should consider duration, severity, triggers, comorbid depression, substance use, and risk. Management may include psychoeducation, cognitive behavioural therapy, lifestyle interventions, and pharmacological treatment such as SSRIs depending on clinical need."
+  },
+  {
+    "document_id": 11,
+    "chunk_id": 11,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_asthma.txt",
+    "text": "Asthma is a chronic inflammatory airway disorder characterised by variable expiratory airflow limitation, bronchial hyperresponsiveness, and recurrent symptoms including wheeze, cough, chest tightness, and dyspnoea. Pathophysiology involves airway inflammation, smooth muscle contraction, mucus hypersecretion, and reversible airway narrowing. Management commonly includes short-acting beta agonists for symptom relief and inhaled corticosteroids for long-term control. Escalation may involve LABA therapy, leukotriene receptor antagonists, or biologics depending on severity and phenotype. Clinical review should assess control, inhaler technique, triggers, adherence, and exacerbation risk."
+  },
+  {
+    "document_id": 12,
+    "chunk_id": 12,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_covid.txt",
+    "text": "COVID-19 is caused by SARS-CoV-2 and ranges from asymptomatic infection to severe viral pneumonia, acute respiratory distress syndrome, thromboembolic complications, and multisystem involvement. Clinical features may include fever, cough, anosmia, fatigue, sore throat, and dyspnoea. Risk stratification is important for older adults, immunocompromised individuals, pregnant patients, and those with comorbidities. Management depends on disease severity and may include supportive care, oxygen therapy, antivirals, corticosteroids, or hospital escalation. Vaccination reduces severe disease risk."
+  },
+  {
+    "document_id": 13,
+    "chunk_id": 13,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_depression.txt",
+    "text": "Depression is a mood disorder characterised by persistent low mood, anhedonia, reduced energy, cognitive changes, sleep disturbance, appetite change, feelings of guilt or worthlessness, and possible suicidal ideation. Assessment should consider duration, severity, functional impairment, risk, comorbid anxiety, substance use, medical causes, and medication effects. Management may include psychoeducation, psychological therapies such as CBT, antidepressant medication, social support, safety planning, and regular review. Urgent escalation is required where there is immediate risk of self-harm or suicide."
+  },
+  {
+    "document_id": 14,
+    "chunk_id": 14,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_diabetes.txt",
+    "text": "Diabetes mellitus is a metabolic disorder characterised by chronic hyperglycaemia resulting from impaired insulin secretion, insulin resistance, or both. Type 1 diabetes is autoimmune beta-cell destruction requiring insulin therapy. Type 2 diabetes is commonly associated with insulin resistance, obesity, and progressive beta-cell dysfunction. Diagnosis is based on HbA1c, fasting plasma glucose, oral glucose tolerance testing, or random glucose with symptoms. Management includes lifestyle intervention, glycaemic monitoring, metformin as common first-line therapy in type 2 diabetes, and escalation based on cardiovascular, renal, and individual risk factors."
+  },
+  {
+    "document_id": 15,
+    "chunk_id": 15,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_flu.txt",
+    "text": "Influenza is an acute respiratory viral infection caused mainly by influenza A or B viruses. It presents with abrupt onset fever, myalgia, headache, malaise, cough, sore throat, and respiratory symptoms. Complications include viral pneumonia, secondary bacterial pneumonia, exacerbation of chronic disease, and severe illness in high-risk groups. Management is usually supportive, although antivirals may be considered for selected high-risk or severe cases. Annual vaccination remains a key public health intervention due to antigenic drift and seasonal circulation."
+  },
+  {
+    "document_id": 16,
+    "chunk_id": 16,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_heart_disease.txt",
+    "text": "Cardiovascular disease includes coronary artery disease, heart failure, arrhythmias, valvular disorders, and peripheral vascular disease. Coronary artery disease commonly results from atherosclerotic plaque formation causing myocardial ischaemia. Risk factors include hypertension, dyslipidaemia, diabetes, smoking, obesity, sedentary lifestyle, and family history. Clinical presentation may include angina, dyspnoea, palpitations, syncope, or acute coronary syndrome. Management involves risk modification, pharmacotherapy such as antiplatelets or statins where indicated, and procedural intervention in selected cases."
+  },
+  {
+    "document_id": 17,
+    "chunk_id": 17,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_hypertension.txt",
+    "text": "Hypertension is persistent elevation of arterial blood pressure and is a major modifiable risk factor for cardiovascular, cerebrovascular, and renal disease. Diagnosis typically requires repeated clinic or ambulatory or home blood pressure measurements. Pathophysiology may involve increased systemic vascular resistance, renal sodium handling, sympathetic activation, and vascular remodelling. Management includes lifestyle modification and pharmacological therapy guided by age, ethnicity, comorbidities, and cardiovascular risk. Treatment targets aim to reduce long-term complications such as myocardial infarction, stroke, heart failure, and chronic kidney disease."
+  },
+  {
+    "document_id": 18,
+    "chunk_id": 18,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_migraine.txt",
+    "text": "Migraine is a primary headache disorder involving recurrent attacks of moderate to severe headache, commonly unilateral and pulsating, with associated nausea, photophobia, phonophobia, and sometimes aura. Pathophysiology involves trigeminovascular activation, neurogenic inflammation, cortical spreading depression in aura, and altered pain modulation. Acute management may include simple analgesia, NSAIDs, triptans, and antiemetics. Preventive therapy can be considered when attacks are frequent or disabling. Assessment should identify red flags, medication overuse headache, triggers, and impact on function."
+  },
+  {
+    "document_id": 19,
+    "chunk_id": 19,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_obesity.txt",
+    "text": "Obesity is a chronic multifactorial condition involving excess adiposity associated with increased cardiometabolic and mechanical risk. It is influenced by genetic, behavioural, environmental, endocrine, psychological, and socioeconomic factors. Complications include type 2 diabetes, hypertension, dyslipidaemia, obstructive sleep apnoea, osteoarthritis, non-alcoholic fatty liver disease, and cardiovascular disease. Assessment should include BMI, waist circumference, comorbidities, medication review, and lifestyle factors. Management includes behavioural intervention, dietary change, physical activity, pharmacotherapy, and bariatric referral where appropriate."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "document_id": 0,
+    "chunk_id": 0,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_anxiety.txt"
+  },
+  {
+    "document_id": 1,
+    "chunk_id": 1,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_asthma.txt"
+  },
+  {
+    "document_id": 2,
+    "chunk_id": 2,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_covid.txt"
+  },
+  {
+    "document_id": 3,
+    "chunk_id": 3,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_depression.txt"
+  },
+  {
+    "document_id": 4,
+    "chunk_id": 4,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_diabetes.txt"
+  },
+  {
+    "document_id": 5,
+    "chunk_id": 5,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_flu.txt"
+  },
+  {
+    "document_id": 6,
+    "chunk_id": 6,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_heart_disease.txt"
+  },
+  {
+    "document_id": 7,
+    "chunk_id": 7,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_hypertension.txt"
+  },
+  {
+    "document_id": 8,
+    "chunk_id": 8,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_migraine.txt"
+  },
+  {
+    "document_id": 9,
+    "chunk_id": 9,
+    "mode": "patient",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\patient_obesity.txt"
+  },
+  {
+    "document_id": 10,
+    "chunk_id": 10,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_anxiety.txt"
+  },
+  {
+    "document_id": 11,
+    "chunk_id": 11,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_asthma.txt"
+  },
+  {
+    "document_id": 12,
+    "chunk_id": 12,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_covid.txt"
+  },
+  {
+    "document_id": 13,
+    "chunk_id": 13,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_depression.txt"
+  },
+  {
+    "document_id": 14,
+    "chunk_id": 14,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_diabetes.txt"
+  },
+  {
+    "document_id": 15,
+    "chunk_id": 15,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_flu.txt"
+  },
+  {
+    "document_id": 16,
+    "chunk_id": 16,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_heart_disease.txt"
+  },
+  {
+    "document_id": 17,
+    "chunk_id": 17,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_hypertension.txt"
+  },
+  {
+    "document_id": 18,
+    "chunk_id": 18,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_migraine.txt"
+  },
+  {
+    "document_id": 19,
+    "chunk_id": 19,
+    "mode": "professional",
+    "source_file": "C:\\Users\\Maz\\OneDrive\\Desktop\\educare_retrieval_data_included\\data\\raw_docs\\professional_obesity.txt"
+  }
+]
